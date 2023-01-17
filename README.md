@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/umeshbagade/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
 </a>
-<img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?umeshbagade=your-github-username&style=flat-square&color=blue" alt=""/>
 <br>
 <br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{anandk008}1212%2Fhit-counter" alt="Github Visit Count"/>
-<img src="https://komarev.com/ghpvc/?username=anandk008&color=lightgrey" alt="Github Profile Count" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{umeshbagade}1212%2Fhit-counter" alt="Github Visit Count"/>
+<img src="https://komarev.com/ghpvc/?username=umeshbagade&color=lightgrey" alt="Github Profile Count" />
 
 </div>
