@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 </br>
 </br>
-<a href="https://www.linkedin.com/in/umeshbagade">
+<a href="https://www.linkedin.com/in/umeshbagade" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:umeshbagade4321@gmail.com">
+<a href="mailto:umeshbagade4321@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" />
 </a>
-<a href="https://www.codechef.com/users/umesh_5">
+<a href="https://www.codechef.com/users/umesh_5" target="_blank">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-<a href="https://leetcode.com/umeshbagade/">
+<a href="https://leetcode.com/umeshbagade/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
 </a>
 <img src="https://komarev.com/ghpvc/?umeshbagade=your-github-username&style=flat-square&color=blue" alt=""/>
